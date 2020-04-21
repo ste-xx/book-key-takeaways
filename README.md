@@ -38,3 +38,5 @@ Taylorismus -> Trennung von Management und Arbeiter. Sind Dev. Arbeiter des 21Ja
 #### Start Small, Stay Small: A Developer's Guide to Launching a Startup (English Edition) 
 ![start_small_stay_small](https://github.com/ste-xx/book-key-takeaways/raw/master/img/start_small_stay_small.png)
 
+#### Traction
+![traction](https://github.com/ste-xx/book-key-takeaways/raw/master/img/traction.png)

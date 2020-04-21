@@ -2,27 +2,11 @@
 
 ### entrepeneurship 
 
-#### The Mom test
-![the_mom_test](https://github.com/ste-xx/book-key-takeaways/raw/master/the_mom_test/cover.jpg)
 
-[key takeaways](./the_mom_test/takeaways.md)
-
-#### Kopf schlägt Kapital: Die ganz andere Art, ein Unternehmen zu gründen - Von der Lust, ein Entrepreneur zu sein 
-![kopf_schlaegt_kapital](https://github.com/ste-xx/book-key-takeaways/raw/master/kopf_schlaegt_kapital/cover.jpg)
-
-[key takeaways](./kopf_schlaegt_kapital/takeaways.md)
-
-#### Developer Hegemony: The Future of Labor (English Edition) 
-![developer_hegemony](https://github.com/ste-xx/book-key-takeaways/raw/master/developer_hegemony/cover.jpg)
-
-[key takeaways](./developer_hegemony/takeaways.md)
-
-#### Traction
-![traction](https://github.com/ste-xx/book-key-takeaways/raw/master/traction/cover.jpg)
-
-[key takeaways](./traction/takeaways.md)
-
-#### The Unicorn project
-![the_unicorn_project](https://github.com/ste-xx/book-key-takeaways/raw/master/the_unicorn_project/cover.jpg)
-
-[key takeaways](./the_unicorn_project/takeaways.md)
+| Cover         | Title         | Link  |
+| ------------- |:-------------:| -----:|
+| ![the_mom_test](https://github.com/ste-xx/book-key-takeaways/raw/master/the_mom_test/cover.jpg) | The Mom test | [key takeaways](./the_mom_test/takeaways.md) |
+| ![kopf_schlaegt_kapital](https://github.com/ste-xx/book-key-takeaways/raw/master/kopf_schlaegt_kapital/cover.jpg) | Kopf schlägt Kapital: Die ganz andere Art, ein Unternehmen zu gründen - Von der Lust, ein Entrepreneur zu sein  | [key takeaways](./kopf_schlaegt_kapital/takeaways.md)|
+| ![developer_hegemony](https://github.com/ste-xx/book-key-takeaways/raw/master/developer_hegemony/cover.jpg) | Developer Hegemony: The Future of Labor (English Edition)  | [key takeaways](./developer_hegemony/takeaways.md) |
+| ![traction](https://github.com/ste-xx/book-key-takeaways/raw/master/traction/cover.jpg) | Traction | [key takeaways](./traction/takeaways.md) |
+| ![the_unicorn_project](https://github.com/ste-xx/book-key-takeaways/raw/master/the_unicorn_project/cover.jpg) | The Unicorn project | [key takeaways](./the_unicorn_project/takeaways.md) |

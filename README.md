@@ -21,3 +21,9 @@ Sprecher2: Ah und was habt ihr versucht um es zu verbessern.
 Sprecher1: Nichts, wir lassen das die Praktikanten machen, dann lernen sie auch XYZ. Aber es ist trotzdem schon nervig.
 
 Mehr zuhören als sprechen. Leute reden lassen.
+
+#### Kopf schlägt Kapital: Die ganz andere Art, ein Unternehmen zu gründen - Von der Lust, ein Entrepreneur zu sein 
+![kopf_schlaegt_kapital](https://github.com/ste-xx/book-key-takeaways/raw/master/img/kopf_schlaegt_kapital.png)
+
+Gründen aus Komponenten: 
+Man muss nicht alles selber bereitstellen, durch intelligente komposition können gefragte Produkte entstehen.

@@ -1,5 +1,5 @@
 ![cover](https://github.com/ste-xx/book-key-takeaways/raw/master/traction/cover.jpg)
-### Traction 
+### Traction: How Any Startup Can Achieve Explosive Customer Growth
 
 Versuche eine Idee möglichst billig über einen Traction Channel zu evaluieren.
 "Bullseye", 3Phasen -> 1. ganz billig validieren. 2. mehr in die tiefe, nicht mehr als 1000 euro 3. all in

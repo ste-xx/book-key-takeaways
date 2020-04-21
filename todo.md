@@ -48,6 +48,9 @@
 #### Solopreneur: Alleine schneller am Ziel 
 <todo>
 
+#### Start Small, Stay Small: A Developer's Guide to Launching a Startup (English Edition) 
+![start_small_stay_small](https://github.com/ste-xx/book-key-takeaways/raw/master/img/start_small_stay_small.png)
+
 
 #### Explosive Growth: A Few Things I Learned While Growing My Startup To 100 Million Users & Losing $78 Million (English Edition) 
 <todo>

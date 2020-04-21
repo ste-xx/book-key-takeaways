@@ -98,18 +98,3 @@
 #### Brain Rules für Ihr Baby 
 <todo>
 
-### Fun
-#### HOW TO - Wie man's hinkriegt: Absurde, wirklich wissenschaftliche Empfehlungen für alle Lebenslagen - Deutschsprachige Ausgabe, illustriert 
-<todo>
-
-#### Komisch, alles chemisch!: Handys, Kaffee, Emotionen – wie man mit Chemie wirklich alles erklären kann 
-<todo>
-  
-#### Disrupted: My Misadventure in the Start-Up Bubble (English Edition) 
-<todo>
-
-#### Eine kurze Geschichte der Menschheit 
-<todo>
- 
-#### Darm mit Charme: Alles über ein unterschätztes Organ - aktualisierte Neuauflage 
-<todo>

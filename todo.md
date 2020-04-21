@@ -5,9 +5,6 @@
 #### Accelerate
 <todo>
 
-#### The Unicorn Project
-<todo>
-
 #### The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (English Edition) 
 <todo>
 

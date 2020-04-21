@@ -36,9 +36,6 @@
 <todo>
 
 ### Entrepeneurship
-#### Start Small, Stay Small: A Developer's Guide to Launching a Startup (English Edition) 
-<todo>
-
 #### Swipe to Unlock: The Primer on Technology and Business Strategy (English Edition) 
 <todo>
 
@@ -48,17 +45,9 @@
 #### Freakonomics Rev Ed: A Rogue Economist Explores the Hidden Side of Everything (English Edition) 
 <todo>
 
-#### Developer Hegemony: The Future of Labor (English Edition) 
-<todo>
-
 #### Solopreneur: Alleine schneller am Ziel 
 <todo>
 
-#### Kopf schlägt Kapital: Die ganz andere Art, ein Unternehmen zu gründen - Von der Lust, ein Entrepreneur zu sein 
-<todo>
-
-#### mom test
-<todo>
 
 #### Explosive Growth: A Few Things I Learned While Growing My Startup To 100 Million Users & Losing $78 Million (English Edition) 
 <todo>
@@ -80,8 +69,6 @@
 
 
 ### Marketing
-#### Traction
-<todo>
 
 #### Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials) (English Edition) 
 <todo>

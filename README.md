@@ -16,4 +16,8 @@
 ![traction](https://github.com/ste-xx/book-key-takeaways/raw/master/traction/cover.jpg)
 
 #### The Unicorn project
+<<<<<<< HEAD
 ![the_unicorn_project](https://github.com/ste-xx/book-key-takeaways/raw/master/the_unicorn_project/cover.jpg)
+=======
+![the_unicorn_project](https://github.com/ste-xx/book-key-takeaways/raw/master/the_unicorn_project/cover.jpg)
+>>>>>>> fed66a0d63d8940fa652d7ee88d8d4908f1f4d89

@@ -4,8 +4,17 @@
 
 #### The Mom test
 ![the_mom_test](https://github.com/ste-xx/book-key-takeaways/raw/master/img/mom_test.png)
-Bei Umfragen nach Produktidee, frag nicht direkt ob Idee X eine coole idee ist, sondern frag wie sie Problem y lösen, was Produkt X lösen soll.
 
-Wenn es schon Lösungen gibt frag ob Sie sie ausprobiert haben. 
+Bei Validierung nach Produktidee, frage nicht direkt ob Idee X eine coole Idee ist, sondern frag wie sie Problem y lösen, was Produkt X lösen soll. Leute wollen keine echte Diskussion oder sind freundlich und sagen: Beste Idee die gibt!
 
-Wenn nein -> frag ob sie die andere Lösung installieren wollen. Wenn nein -> wirklich ein Problem was gelöst werden muss?
+Frage folgende dinge:
+Hast du mal gegoogelt ob es eine Lösung für Y gibt? -> wenn nein:
+Lass mal zusammen googlen -> wenn kein Interesse, wirklich painpoint?
+Wenn es bereits eine (schlechte?) Lösung gibt, für Problem y -> hast du sie ausprobiert, lass mal ausprobieren -> wenn kein Interesse, wirklich painpoint? 
+
+Es gibt Probleme, die sind nervig und die Leute maulen rum, würden dafür aber nichts investieren um es gelöst zu bekommen.
+Z.B.: 
+Sprecher1: Schon nervig das wir in der Buchhaltung immer XY machen müssen.
+Sprecher2: Ah und was habt ihr versucht um es zu verbessern.
+Sprecher1: Nichts, wir lassen das die Praktikanten machen, dann lernen sie auch XYZ. Aber es ist trotzdem schon nervig.
+

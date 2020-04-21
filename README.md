@@ -71,6 +71,7 @@ Affiliate Programms -> Liste im Buch. Quasi leute bezahlen, das die dein Produkt
 Existing Platform -> Mach Pluginzeug für andere Platformen
 
 #### The Unicorn project
+![unicorn_project](https://github.com/ste-xx/book-key-takeaways/raw/master/img/unicorn_project.png)
 3 Arten von Projekten in Größeren Firmen:
 
 1 Bestandprodukt, frisst schnell alle resourcen weil das eben der geldbringer ist. Allerdings verwaltet man damit nur sein ist-zustand und kein wachstum

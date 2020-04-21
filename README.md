@@ -29,3 +29,9 @@ Gründen aus Komponenten:
 Man muss nicht alles selber bereitstellen, durch intelligente komposition können gefragte Produkte entstehen.
 Analog:
 Wenn ich software entwickeln, muss ich nicht selber machen. Logo, Design, Texte kann ich outsourcen.
+
+#### Developer Hegemony: The Future of Labor (English Edition) 
+![developer_hegemony](https://github.com/ste-xx/book-key-takeaways/raw/master/img/developer_hegemony.png)
+
+Taylorismus -> Trennung von Management und Arbeiter. Sind Dev. Arbeiter des 21Jahrhundert? Entscheidungen werden an "People Manager" getroffen anstatt von Fach-Experten (je größer die Firma wird?)
+

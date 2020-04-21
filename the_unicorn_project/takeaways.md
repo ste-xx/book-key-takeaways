@@ -8,3 +8,5 @@
 2 Erfolgsversprechene Produkte, die aus dem R&D Bereich kommen. Können Bestandsprodukte werden, können aber auch kaputt gehen. Vertiefung nach R&D 
 
 3 R&D möglichst schnell produktideen validieren, x gleichzeit wobei nur 1 oder 2 zu Erfolgsversprechende Produkte werden
+
+Tech giants like FB Amazon netflix google ms giev dev productivity responsibilities to only the most senior and experienced engineers. But mostly its the exact oposite.

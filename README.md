@@ -27,3 +27,5 @@ Mehr zuhören als sprechen. Leute reden lassen.
 
 Gründen aus Komponenten: 
 Man muss nicht alles selber bereitstellen, durch intelligente komposition können gefragte Produkte entstehen.
+Analog:
+Wenn ich software entwickeln, muss ich nicht selber machen. Logo, Design, Texte kann ich outsourcen.

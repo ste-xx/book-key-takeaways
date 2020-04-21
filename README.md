@@ -69,3 +69,12 @@ Engineering as Marketing -> Gebe einfache Programme aus der gleichen domäne als
 Affiliate Programms -> Liste im Buch. Quasi leute bezahlen, das die dein Produkt verlinken und sie anteil bekommen wenn es verkauft wird. 
 
 Existing Platform -> Mach Pluginzeug für andere Platformen
+
+#### The Unicorn project
+3 Arten von Projekten in Größeren Firmen:
+
+1 Bestandprodukt, frisst schnell alle resourcen weil das eben der geldbringer ist. Allerdings verwaltet man damit nur sein ist-zustand und kein wachstum
+
+2 Erfolgsversprechene Produkte, die aus dem R&D Bereich kommen. Können Bestandsprodukte werden, können aber auch kaputt gehen. Vertiefung nach R&D 
+
+3 R&D möglichst schnell produktideen validieren, x gleichzeit wobei nur 1 oder 2 zu Erfolgsversprechende Produkte werden

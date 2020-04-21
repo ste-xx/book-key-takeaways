@@ -53,5 +53,10 @@ Youtube werbung kostet 100Euro und erreicht 10000 User, von den 10000, kaufen 1%
 Kosten: 1 euro pro user.
 Wenn dein Produkt unter (zb. 99cent) CAC fallen hast du ein echtes Problem.
 
+Konzentration auf 1 Channel, andere Channels dürfen supporten.
+
 Für mich interessante channels: 
+Targeting Blog -> suche blog wo man gastbeiträge schreiben kann.
+Search Engine Marketing -> Scrheibe gastartikel überall und schau das deine seite immer gleich verlinkt wird.
+Search Engine Optimization -> Fat Arrow (Wenige aber schlagwörter) vs long tail (Sätze). 70% der suchanfragen sind long tail.
 

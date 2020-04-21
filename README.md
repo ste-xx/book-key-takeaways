@@ -3,7 +3,7 @@
 ### entrepeneurship 
 
 #### The Mom test
-![bamboo_workflow](https://github.com/ste-xx/book-key-takeaways/raw/master/img/mom-test.png)
+![the_mom_test](https://github.com/ste-xx/book-key-takeaways/raw/master/img/mom_test.png)
 Bei Umfragen nach Produktidee, frag nicht direkt ob Idee X eine coole idee ist, sondern frag wie sie Problem y lösen, was Produkt X lösen soll.
 
 Wenn es schon Lösungen gibt frag ob Sie sie ausprobiert haben. 

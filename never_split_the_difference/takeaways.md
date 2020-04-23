@@ -18,6 +18,7 @@ Denn eine Verhandlung gewinnt man nicht durch einen Kampf von Argumenten, sonder
 #### Bring den gegenüber dazu "Nein" zu sagen
 Und zwar bei einer nicht so wichtigen Sache. Warum? Damit hat er ein Gefühl von Kontrolle hat.
 Ein gezwungenes Ja führt zum unwohlsein des Gegenübers.
+Ja ist oft nicht ernset gemeint, sondern ein "lass mich in Ruhe"
 
 #### Das ist richtig vs du hast Recht.
 Du hast Recht -> jaja lass mich in Ruhe. 

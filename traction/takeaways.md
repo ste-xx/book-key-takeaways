@@ -4,7 +4,7 @@
 Versuche eine Idee möglichst billig über einen Traction Channel zu evaluieren.
 "Bullseye", 3Phasen -> 1. ganz billig validieren. 2. mehr in die tiefe, nicht mehr als 1000 euro 3. all in
 
-Messe die auswirkung des marketings -> Nach aktion, hat sich downloadzahl, page visit, conversion rate, whatever erhöht?
+Messe die auswirkung des Marketings -> Nach Aktion: hat sich Downloadzahl, Pagevisit, Conversionrate, whatever erhöht?
 
 Customer acquisition cost (CAC): 
 Wie teuer ist es einen Kunden über den Traction Channel zu gewinnen.
@@ -17,18 +17,18 @@ Konzentration auf 1 Channel, andere Channels dürfen supporten.
 
 Für mich interessante channels: 
 
-Targeting Blog -> suche blog wo man gastbeiträge schreiben kann.
+Targeting Blog -> Suche einen (Nichen)-Blog wo man Gastbeiträge schreiben kann, die in die selbe Domain fallen.
 
-Search Engine Marketing -> Scrheibe gastartikel überall und schau das deine seite immer gleich verlinkt wird.
+Search Engine Marketing -> Schreibe Gastartikel überall und schau das deine Landingpage immer gleich verlinkt wird.
 
-Search Engine Optimization -> Fat Arrow (Wenige aber schlagwörter) vs long tail (Sätze). 70% der suchanfragen sind long tail.
+Search Engine Optimization -> Fat Arrow (Wenige Schlagwörter) vs Long Tail (Sätze). 70% der Suchanfragen sind long tail.
 
-Offline Werbung -> Zeitschriften, bandenwerbung etc. sei kreativ?
+Offline Werbung -> Zeitschriften, Bandenwerbung etc. sei kreativ?
 
-Email Marketing -> Persönliche Ansprache, Keine generische liste, am besten durch landingpages oder ähnliches aus erster hand erhalten.
+Email Marketing -> Persönliche Ansprache, Keine generische Liste sondern am besten durch eigene Landingpages oder ähnliches. Aus erster Hand.
 
-Engineering as Marketing -> Gebe einfache Programme aus der gleichen domäne als freeware raus.
+Engineering as Marketing -> Gebe simple Programme/Tools aus der Gleichen Domäne als Freeware raus.
 
-Affiliate Programms -> Liste im Buch. Quasi leute bezahlen, das die dein Produkt verlinken und sie anteil bekommen wenn es verkauft wird. 
+Affiliate Programms -> Liste im Buch. Quasi Leute bezahlen, das die dein Produkt verlinken und sie Anteil bekommen wenn es verkauft wird. 
 
 Existing Platform -> Mach Pluginzeug für andere Platformen

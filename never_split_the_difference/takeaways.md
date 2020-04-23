@@ -12,7 +12,7 @@ Denn eine Verhandlung gewinnt man nicht durch einen Kampf von Argumenten, sonder
 
 #### Empathie
  - durch Spiegeln: Anstatt diskutieren, gesagtes wiederholen.
- - durch Label: Die Gefühle des Gegenüber beschreiben. Ah wegen xyz bist du sauer, jetzt versteh ich warum.
+ - durch Label: Die Gefühle des Gegenüber beschreiben. Ah es scheint so das du du wegen xyz sauer bist.
  - durch Paraphrase: Das Gesagte in anderen Worten wiedergeben.
 
 #### Bring den gegenüber dazu "Nein" zu sagen

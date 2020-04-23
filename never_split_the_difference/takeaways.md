@@ -20,3 +20,14 @@ Ein gezwungenes Ja führt zum unwohlsein des Gegenübers.
 
 #### Das ist richtig vs du hast Recht.
 Du hast Recht -> jaja lass mich in Ruhe. 
+
+DAs Gespräch zu "Das ist richtig" führen, in dem man Sachverhalte/Einstellungen des gegenüber erklärt.
+
+Z.b:
+
+Du tust alles um guten Code zu schreiben und um eine Möglich niedrige Bugquote zu haben.
+
+Wenn dann "Das ist richtig" kommt, dann erst die Idee pitchen.
+
+Z.b:
+Dann würde ich dir gerne mal Unittests zeigen, um das zu verbessern.

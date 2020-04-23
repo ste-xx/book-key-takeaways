@@ -43,3 +43,8 @@ Dann würde ich dir gerne mal Unittests zeigen, um das zu verbessern.
 - Setz Zielpreis auf 65% und mach das Angebot (Extrem niedriger Anker)
 - Verhandele auf 85, 95, 100% auf dein Zielpreis
 - Nutze unrunde Zahlen
+
+#### Für Zustimmung, Rule of Three
+Das Gegenüber sollte 3x zugestimmt haben, (in unterschiedlichen Worten) in einer Konservation. Damit man sicher gehen kann das er es auch so meint.
+
+#### Nutze oft den namen des Gegenübers

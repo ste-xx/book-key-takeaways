@@ -17,3 +17,8 @@
 | ![the_phoenix_project](the_phoenix_project/cover.jpg) | The Phoenix Project | [key takeaways](the_phoenix_project/takeaways.md) |
 | ![the_unicorn_project](the_unicorn_project/cover.jpg) | The Unicorn Project | [key takeaways](the_unicorn_project/takeaways.md) |
 | ![the_managers_path](the_managers_path/cover.jpg) | The Manager Path | [key takeaways](the_managers_path/takeaways.md) |
+
+### Psychology
+| Cover         | Title         | Link  |
+| ------------- |:-------------:| -----:|
+| ![never_split_the_difference](never_split_the_difference/cover.jpg) |  Never Split the Difference: Negotiating as if Your Life Depended on It | [key takeaways](never_split_the_difference/takeaways.md) |

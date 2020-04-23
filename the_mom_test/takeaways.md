@@ -15,7 +15,9 @@ Wenn es bereits eine (schlechte?) Lösung gibt, für Problem y -> hast du sie au
 Es gibt Probleme, die sind nervig und die Leute maulen rum, würden dafür aber nichts investieren um es gelöst zu bekommen.
 Z.B.: 
 Sprecher1: Schon nervig das wir in der Buchhaltung immer XY machen müssen.
+
 Sprecher2: Ah und was habt ihr versucht um es zu verbessern.
+
 Sprecher1: Nichts, wir lassen das die Praktikanten machen, dann lernen sie auch XYZ. Aber es ist trotzdem schon nervig.
 
 Mehr zuhören als sprechen. Leute reden lassen.

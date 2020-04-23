@@ -2,11 +2,12 @@
 
 ### The Mom Test
 
-Bei Validierung nach Produktidee, Frage nicht direkt ob Idee X eine coole Idee ist, sondern frag wie sie Problem y lösen, was Produkt X lösen soll. 
+#### Bei Validierung nach Produktidee, 
+Frage nicht direkt ob Idee X eine coole Idee ist, sondern frag wie sie Problem y lösen, was Produkt X lösen soll. 
 
 Leute wollen keine echte Diskussion oder sind freundlich und sagen: Beste Idee die gibt! Komplimente sind nutzlos.
 
-Frage folgende Dinge:
+#### Frage folgende Dinge
 Hast du mal gegoogelt ob es eine Lösung für Y gibt? -> wenn nein:
 Lass mal zusammen googlen -> wenn kein Interesse, wirklich painpoint?
 Wenn es bereits eine (schlechte?) Lösung gibt, für Problem y -> hast du sie ausprobiert, lass mal ausprobieren -> wenn kein Interesse, wirklich painpoint? 

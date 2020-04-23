@@ -1,5 +1,4 @@
-![cover](https://github.com/ste-xx/book-key-takeaways/raw/master/the_mom_test/cover.jpg)
-
+![cover](cover.jpg)
 
 ### The Mom Test
 

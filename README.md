@@ -5,7 +5,7 @@
 
 | Cover         | Title         | Link  |
 | ------------- |:-------------:| -----:|
-| ![the_mom_test](https://github.com/ste-xx/book-key-takeaways/raw/master/the_mom_test/cover.jpg) | The Mom test | [key takeaways](./the_mom_test/takeaways.md) |
+| ![the_mom_test](the_mom_test/cover.jpg) | The Mom test | [key takeaways](./the_mom_test/takeaways.md) |
 | ![kopf_schlaegt_kapital](https://github.com/ste-xx/book-key-takeaways/raw/master/kopf_schlaegt_kapital/cover.jpg) | Kopf schlägt Kapital: Die ganz andere Art, ein Unternehmen zu gründen - Von der Lust, ein Entrepreneur zu sein  | [key takeaways](./kopf_schlaegt_kapital/takeaways.md)|
 | ![developer_hegemony](https://github.com/ste-xx/book-key-takeaways/raw/master/developer_hegemony/cover.jpg) | Developer Hegemony: The Future of Labor (English Edition)  | [key takeaways](./developer_hegemony/takeaways.md) |
 | ![traction](https://github.com/ste-xx/book-key-takeaways/raw/master/traction/cover.jpg) | Traction | [key takeaways](./traction/takeaways.md) |

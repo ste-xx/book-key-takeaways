@@ -1,4 +1,4 @@
-![cover](https://github.com/ste-xx/book-key-takeaways/raw/master/kopf_schlaegt_kapital/cover.jpg)
+![cover](cover.jpg)
 
 ### Kopf schlägt Kapital: Die ganz andere Art, ein Unternehmen zu gründen - Von der Lust, ein Entrepreneur zu sein 
 

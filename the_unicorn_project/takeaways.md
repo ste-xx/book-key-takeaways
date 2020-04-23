@@ -1,4 +1,5 @@
-![cover](https://github.com/ste-xx/book-key-takeaways/raw/master/the_unicorn_project/cover.jpg)
+![cover](cover.jpg)
+
 ### The Unicorn Project 
 
 3 Arten von Projekten (Horizon 1-3:) in Größeren Firmen:

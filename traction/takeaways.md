@@ -1,4 +1,5 @@
-![cover](https://github.com/ste-xx/book-key-takeaways/raw/master/traction/cover.jpg)
+![cover](cover.jpg)
+
 ### Traction: How Any Startup Can Achieve Explosive Customer Growth
 
 Versuche eine Idee möglichst billig über einen Traction Channel zu evaluieren.

@@ -7,9 +7,6 @@
 
 #### The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (English Edition) 
 <todo>
-
-#### The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (English Edition) 
-<todo>
   
 #### Building Evolutionary Architectures: Support Constant Change (English Edition) 
 <todo>
@@ -81,10 +78,6 @@
 <todo>
 
 #### 100 More Things Every Designer Needs to Know About People: What Makes Them Tick? (Voices That Matter)
-<todo>
-
-### Verhandlung
-#### Never Split the Difference: Negotiating As If Your Life Depended On It (English Edition)
 <todo>
 
 ### Finanzen

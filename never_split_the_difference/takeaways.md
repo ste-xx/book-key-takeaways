@@ -33,3 +33,6 @@ Z.b:
 Dann würde ich dir gerne mal Unittests zeigen, um das zu verbessern.
 
 #### Meide Warum-fragen nutze Was/Wie-Fragen
+
+#### Ackerman-Plan und Anker setzen
+65% 85% 95% 100% Stufen beim hoch/runter gehen.

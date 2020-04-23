@@ -31,4 +31,4 @@ Engineering as Marketing -> Gebe simple Programme/Tools aus der Gleichen Domäne
 
 Affiliate Programms -> Liste im Buch. Quasi Leute bezahlen, das die dein Produkt verlinken und sie Anteil bekommen wenn es verkauft wird. 
 
-Existing Platform -> Mach Pluginzeug für andere Platformen
+Existing Platform -> Mach Pluginzeug für andere Platformen. Auf neue Platformen konzentrieren, da weniger Konkurrenz.

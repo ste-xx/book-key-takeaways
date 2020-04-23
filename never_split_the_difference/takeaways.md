@@ -8,6 +8,7 @@ Der Kompromiss: Ein brauner, ein schwarzer.
 
 #### Aktives Zuhören
 An nichts anderes denken. 100% Aufmerksamkeit.
+Denn eine Verhandlung gewinnt man nicht durch einen Kampf von Argumenten, sondern durch entdecken was der andere will. Diese Infos bekommt man nur durch zuhören. 
 
 #### Empathie
  - durch Spiegeln: Anstatt diskutieren, gesagtes wiederholen.

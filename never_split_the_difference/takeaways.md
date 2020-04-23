@@ -31,3 +31,5 @@ Wenn dann "Das ist richtig" kommt, dann erst die Idee pitchen.
 
 Z.b:
 Dann würde ich dir gerne mal Unittests zeigen, um das zu verbessern.
+
+#### Meide Warum-fragen nutze Was/Wie-Fragen

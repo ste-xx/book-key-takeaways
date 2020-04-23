@@ -36,3 +36,8 @@ Dann würde ich dir gerne mal Unittests zeigen, um das zu verbessern.
 
 #### Ackerman-Plan und Anker setzen
 65% 85% 95% 100% Stufen beim hoch/runter gehen.
+
+- Setze zielpreis
+- Setz Zielpreis auf 65% und mach das Angebot (Extrem niedriger Anker)
+- Verhandele auf 85, 95, 100% auf dein Zielpreis
+- Nutze unrunde Zahlen

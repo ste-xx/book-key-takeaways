@@ -9,14 +9,14 @@ Der Kompromiss: Ein brauner, ein schwarzer.
 #### Aktives Zuhören
 An nichts anderes denken. 100% Aufmerksamkeit.
 
-#### Empathie durch Spiegeln
-Anstatt diskutieren, gesagtes wiederholen.
-
-#### Empathie durch Labeln
-Die Gefühle des gegenüber beschreiben. Ah wegen xyz bist du sauer, jetzt versteh ich warum.
-
-#### Empathie durch Paraphrase
-Das gesagte in anderen Worten wieder geben.
+#### Empathie
+ - durch Spiegeln: Anstatt diskutieren, gesagtes wiederholen.
+ - durch Label: Die Gefühle des Gegenüber beschreiben. Ah wegen xyz bist du sauer, jetzt versteh ich warum.
+ - durch Paraphrase: Das Gesagte in anderen Worten wiedergeben.
 
 #### Bring den gegenüber dazu "Nein" zu sagen
-Und zwar bei einer nicht so wichtigen Sache. Warum? Damit hat er ein Gefühl von Kontrolle
+Und zwar bei einer nicht so wichtigen Sache. Warum? Damit hat er ein Gefühl von Kontrolle hat.
+Ein gezwungenes Ja führt zum unwohlsein des Gegenübers.
+
+#### Das ist richtig vs du hast Recht.
+Du hast Recht -> jaja lass mich in Ruhe. 

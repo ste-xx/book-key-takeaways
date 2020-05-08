@@ -10,6 +10,13 @@
 | ![developer_hegemony](developer_hegemony/cover.jpg) | Developer Hegemony: The Future of Labor (English Edition) | [key takeaways](developer_hegemony/takeaways.md) |
 | ![traction](traction/cover.jpg) | Traction | [key takeaways](traction/takeaways.md) |
 
+### Game Section
+
+| Cover         | Title         | Link  |
+| ------------- |:-------------:| -----:|
+| ![blood_sweat_and_pixels](blood_sweat_and_pixels/cover.jpg) | Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made | [key takeaways](blood_sweat_and_pixels/takeaways.md) |
+
+
 ### IT-Management
 
 | Cover         | Title         | Link  |

@@ -5,6 +5,10 @@
 #### Output vs Outcome.
 Was bringt es "viel" zu produzieren, wenn es wertlos ist.
 
-#### Delivery time ist wichtig
-In kombination mit:
-  time-to-recover
+#### Delivery performance ist wichtig
+Delivery performance:
+  Deployment Frequency
+  Lead Time for Changes
+  Mean Time to Restore
+  Change Failure Rate
+

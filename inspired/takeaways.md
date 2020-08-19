@@ -2,13 +2,15 @@
 
 ### INSPIRED: How to Create Tech Products Customers Love
 
-We are looking to develop six reference customers in our specific target market or segment, so, the idea is to find six similar customers.
-For example, first develop six references for the financial services industry, then six for the manufactoring industry and so on.
+Sechs Referenzkunden in im gleichen spezifischen Markt oder Segment:
+z.B: Sechs in Finanzsektor dann sechs in der Herstellungsindustrie und so weiter. 
 
-If you are working on an important and difficult problem, you will likely be overwhelmed with customers that want to participate. It really is a good deal, and customers know this.
+Wenn man an einem wichtigen und schwer zu lösenden Problem arbeitetm ist es wahrscheinlich das Kunden mitmachen wollen.
+It really is a good deal, and customers know this.
 
-You find you are having real trouble recuriting even four or five prospective customers for this effort, then it's very possible you're chasing a problem that isn't that important, and you will almost certainly have a very hard time selling this product.
+Wenn es schwer fällt 4 oder 5 Prospektive Kunden zu finden für so ein Unternehmen, ist es wahrscheinlich das dass Problem nicht wirklich wichtig ist
+und es später schwer fällt es zu verkaufen. 
 
-Users choose their devices and platforms because they value what's different, not what's the same.
+User nutzen geräte und platformen wegen ihrer Unterschiede nicht wegen ihren Gemeinsamkeiten. 
 
 Unrelevant ob ein Testuser etwas "schön findet"/"geändert haben will". Relevant ist ob er die Aufgabe gelöst hat.

@@ -9,6 +9,7 @@
 | ![developer_hegemony](developer_hegemony/cover.jpg) | Developer Hegemony: The Future of Labor (English Edition) | [key takeaways](developer_hegemony/takeaways.md) |
 | ![traction](traction/cover.jpg) | Traction | [key takeaways](traction/takeaways.md) |
 | ![inspired](inspired/cover.jpg) | Inspired: How to Create Tech Products Customers Love | [key takeaways](inspired/takeaways.md) |
+| ![hooked](hooked/cover.jpg) | Hooked: How to Build Habit-Forming Products | [key takeaways](hooked/takeaways.md) |
 
 ### Marketing 
 

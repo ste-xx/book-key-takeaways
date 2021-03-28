@@ -22,13 +22,16 @@ Sie sind eingeschossen auf Tools die sie bereits kennen und werden eine variatio
 Und diese haben in der Vergangenheit nicht funktioniert. (Wenn gleicher Problemraum)
 
 #### Erste Kunden
-
 Wenn ein Kunde eine Jahres-subscription bucht, ist das ein starkes commitment und es zeigt das dass Produkt ein kritisches Problem gut genug löst.
+
+Versuche jemand aus der Community als Kundenbetreuer einzustellen. Die Kennen die Probleme der Kunden und den Problemraum.
 
 #### Prio features: 
 Intercom uses the RICE method, which scores Reach, Impact, Confidence against Effort.
 Baremetrics uses the DIE method, scoring
 Affinity Grouping, Opportunity Scoring, "Buy a Feature," "Value vs. Complexity Scoring," and many more.
+
+Wenn features rausgeworfen werden, mache es freundlich. Erst default abschalten und über toggle button wieder einschaltbar machen. Tracken wieviele es wieder einschalten. Nach einer Zeit N feature ganz abschalten. Dies vorher mit In-App Notifiactions + Emails ankündigen.
 
 
 ##### Reid Hoffman, founder of LinkedIn: “If you're not embarrassed by the first version of your product, you have launched too late.”

@@ -10,6 +10,8 @@
 | ![traction](traction/cover.jpg) | Traction | [key takeaways](traction/takeaways.md) |
 | ![inspired](inspired/cover.jpg) | Inspired: How to Create Tech Products Customers Love | [key takeaways](inspired/takeaways.md) |
 | ![hooked](hooked/cover.jpg) | Hooked: How to Build Habit-Forming Products | [key takeaways](hooked/takeaways.md) |
+| ![zero_to_sold](zero_to_sold/cover.jpg) | Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business | [key takeaways](zero_to_sold/takeaways.md) |
+
 
 ### Marketing 
 

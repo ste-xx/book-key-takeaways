@@ -14,6 +14,16 @@ Es könnte ein Hinweis sein für ein lösenswertes Problem sein, wo der Kunde se
 Wenn der potenziellen Kunde sich nicht für seine Arbeit interessiert (passion), wird er sich auch nicht für seine Probleme interessieren. 
 Daher ungeeignet als Interview partner/early adopter.
 
-Validiere **deine** Idee und nicht die Annahmen deines potentiellen Kunden. Es soll ja eine Lösung bei rum kommen, die auch andere Kunden nutzen können. Kunden haben auch oft blind spots, zu den Problemen. 
+Validiere **deine** Idee und nicht die Annahmen deines potentiellen Kunden. 
+Es soll ja eine Lösung bei rum kommen, die auch andere Kunden nutzen können. Kunden haben auch oft blind spots, zu den Problemen. 
 
-Frage potentielle Kunden nicht nach Features. Sie sind eingeschossen auf tools die sie bereits kennen und werden eine variation davon vorschlagen. Und diese haben in der Vergangenheit nicht funktioniert. 
+Frage potentielle Kunden nicht nach Features. 
+Sie sind eingeschossen auf Tools die sie bereits kennen und werden eine variation davon vorschlagen. 
+Und diese haben in der Vergangenheit nicht funktioniert. (Wenn gleicher Problemraum)
+
+#### Erste Kunden
+
+Wenn ein Kunde eine Jahres-subscription bucht, ist das ein starkes commitment und es zeigt das dass Produkt ein kritisches Problem gut genug löst.
+
+
+##### Reid Hoffman, founder of LinkedIn: “If you're not embarrassed by the first version of your product, you have launched too late.”

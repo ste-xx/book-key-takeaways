@@ -25,5 +25,10 @@ Und diese haben in der Vergangenheit nicht funktioniert. (Wenn gleicher Problemr
 
 Wenn ein Kunde eine Jahres-subscription bucht, ist das ein starkes commitment und es zeigt das dass Produkt ein kritisches Problem gut genug löst.
 
+#### Prio features: 
+Intercom uses the RICE method, which scores Reach, Impact, Confidence against Effort.
+Baremetrics uses the DIE method, scoring
+Affinity Grouping, Opportunity Scoring, "Buy a Feature," "Value vs. Complexity Scoring," and many more.
+
 
 ##### Reid Hoffman, founder of LinkedIn: “If you're not embarrassed by the first version of your product, you have launched too late.”

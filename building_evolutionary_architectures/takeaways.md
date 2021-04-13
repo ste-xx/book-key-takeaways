@@ -13,3 +13,4 @@ Zum Beispiel
  atomic -> wie oben genannte Funktionen
  holistic -> die das System im ganzen betrachtet. Beispiel: Chaosmonkey von Netflix der das ganze system testet, ob es ausfallsicher ist.
  
+Es ist ebenfalls möglich, Architekturentscheidungen (wie sollen die Koppelungen aussehen) mit fitness functions zu testen.

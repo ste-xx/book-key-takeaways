@@ -41,8 +41,8 @@
 
 | Cover         | Title         | Link  |
 | ------------- |:-------------:| -----:|
-| ![accelerate](building_evolutionary_architectures/cover.jpg) | Building Evolutionary Architectures: Support Constant Change | [key takeaways](building_evolutionary_architectures/takeaways.md) |
-| ![the_phoenix_project](implementing_domain_driven_design/cover.jpg) | Implementing Domain-Driven Design | [key takeaways](implementing_domain_driven_design/takeaways.md) |
+| ![building_evolutionary_architectures](building_evolutionary_architectures/cover.jpg) | Building Evolutionary Architectures: Support Constant Change | [key takeaways](building_evolutionary_architectures/takeaways.md) |
+| ![implementing_domain_driven_design](implementing_domain_driven_design/cover.jpg) | Implementing Domain-Driven Design | [key takeaways](implementing_domain_driven_design/takeaways.md) |
 
 
 ### Psychology

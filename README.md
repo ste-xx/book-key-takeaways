@@ -35,6 +35,14 @@
 | ![the_unicorn_project](the_unicorn_project/cover.jpg) | The Unicorn Project | [key takeaways](the_unicorn_project/takeaways.md) |
 | ![the_managers_path](the_managers_path/cover.jpg) | The Manager Path | [key takeaways](the_managers_path/takeaways.md) |
 | ![accelerate](accelerate/cover.jpg) | Accelerate | [key takeaways](accelerate/takeaways.md) |
+| ![empowered](empowered/cover.jpg) | EMPOWERED: Ordinary People, Extraordinary Products | [key takeaways](empowered/takeaways.md) |
+
+### Programming / Architecture
+
+| Cover         | Title         | Link  |
+| ------------- |:-------------:| -----:|
+| ![accelerate](building_evolutionary_architectures/cover.jpg) | Building Evolutionary Architectures: Support Constant Change | [key takeaways](building_evolutionary_architectures/takeaways.md) |
+| ![the_phoenix_project](implementing_domain_driven_design/cover.jpg) | Implementing Domain-Driven Design | [key takeaways](implementing_domain_driven_design/takeaways.md) |
 
 
 ### Psychology

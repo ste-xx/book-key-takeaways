@@ -53,3 +53,8 @@ Generative: Welche neuen Opportunities haben sich durch die tests ergeben? Sind 
 #### OKR 
 Gute OKR zeichnen sich dadurch aus, das sie zeigen was man erreichen will.
 Beispiele sind im Buch zu finden.
+
+#### Deadlines 
+
+Manchmal gibt es eben deadlines (ausnahme) und diese müssen mit einem Commitment vom Team gehalten werden.
+Das Team bestimmt wann diese Deadline ist und wird nicht aufdiktiert. Danach muss diese aber gehalten werden.

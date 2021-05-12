@@ -23,6 +23,9 @@ Ein Produkt folgende Bedinungen erfüllen:
 - **viable**: Das Unternehmen kann diese lösung vermarkten,verkaufen.
   Wenn die Firma B2B mit viel Sales kann, muss sie nicht unbedingt Kompetenzen haben, Produkte im Consumer markt zu verkaufen
 
+#### Level of ambition
+- **roof shot**: welche kleine verbesserungen im fokus haben. Wesentlich niedriges Risiko, konservative. 
+- **moon shot**: die neue Lösung muss mindestens 10x besser sein als bestandslösungen. Wesentlich höheres Risiko, spekulativ. 
 
 #### PM
 Interviewfragen PM, ordne folgende Punkte nach deinen Fähigkeiten: 

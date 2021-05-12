@@ -7,6 +7,7 @@ und der Leader soll eine Umgebung schaffen wo diese Fähigkeiten zum tragen komm
 
 Aktienanteile können dafür sorgen, das Mitarbeiter sich als Mitbesitzer (Owner) fühlen antatt Angestellter.
 
+#### Produkt
 Ein Produkt folgende Bedinungen erfüllen:
 - **valuable**: Die Lösung zum Problem ist so wertvoll das ein Kunde dafür zahlt.
   Fragestellung: *Wird der Kunde es kaufen?*
@@ -23,6 +24,7 @@ Ein Produkt folgende Bedinungen erfüllen:
   Wenn die Firma B2B mit viel Sales kann, muss sie nicht unbedingt Kompetenzen haben, Produkte im Consumer markt zu verkaufen
 
 
+#### PM
 Interviewfragen PM, ordne folgende Punkte nach deinen Fähigkeiten: 
 
 - **Execution**: Wie gut bekommst du Dinge erledigt. Die richtigen dinge werden getan ohne nachzufragen und nachverfolgen vieler verschiedener Ziele.

@@ -8,10 +8,14 @@ und der Leader soll eine Umgebung schaffen wo diese Fähigkeiten zum tragen komm
 Aktienanteile können dafür sorgen, das Mitarbeiter sich als Mitbesitzer (Owner) fühlen antatt Angestellter.
 
 Ein Produkt folgende Bedinungen erfüllen:
-- **valuable**: So wertvoll das ein Kunde dafür zahlt.
-- **useable**: Das die Nutzer auch diesen wert wahrnehmen.
+- **valuable**: Die Lösung zum Problem ist so wertvoll das ein Kunde dafür zahlt.
+
+- **useable**: Das die Nutzer diesen wert auch wahrnehmen.
+
 - **feasible**: Das Unternehmen kann die Lösung auch liefern.
-  Wenn 
-- **viable**: Das Unternehmen kann diese lösung vermarkten,verkaufen 
+ Wenn ich eine KochBuch als App mache und selber nicht kochen kann und niemand kenne der Kochrezpte reinstellen kann (Autoren etc). 
+ Ist das für mich nicht feasible (?).
+ 
+- **viable**: Das Unternehmen kann diese lösung vermarkten,verkaufen.
   Wenn die Firma B2B mit viel Sales kann, muss sie nicht unbedingt Kompetenzen haben, Produkte im Consumer markt zu verkaufen
   Wenn 

@@ -36,3 +36,13 @@ Interviewfragen PM, ordne folgende Punkte nach deinen Fähigkeiten:
 - **Growth**: Wie gut bist du, in verschiedene Aufwände durch cleveres nutzen von Prozessen/Team management etc. zu minimieren.
 
 Niemand kann alles gleich gut.
+
+Es ist unglaublich wichtig, die Kunden zu verstehen, warum eine Lösung für sie wertvoll ist.
+
+
+#### User test insights
+
+Evaluative: Was haben wir aus der Produkt idee gelernt.
+
+Generative: Welche neuen Opportunities haben sich durch die tests ergeben? Sind welche dabei die wir weiter verfolgen sollten?
+

@@ -52,3 +52,4 @@ Generative: Welche neuen Opportunities haben sich durch die tests ergeben? Sind 
 
 #### OKR 
 Gute OKR zeichnen sich dadurch aus, das sie zeigen was man erreichen will.
+Beispiele sind im Buch zu finden.

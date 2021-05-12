@@ -21,3 +21,16 @@ Ein Produkt folgende Bedinungen erfüllen:
    
 - **viable**: Das Unternehmen kann diese lösung vermarkten,verkaufen.
   Wenn die Firma B2B mit viel Sales kann, muss sie nicht unbedingt Kompetenzen haben, Produkte im Consumer markt zu verkaufen
+
+
+Interviewfragen PM, ordne folgende Punkte nach deinen Fähigkeiten: 
+
+- **Execution**: Wie gut bekommst du Dinge erledigt. Die richtigen dinge werden getan ohne nachzufragen und nachverfolgen vieler verschiedener Ziele.
+
+- **Creativity**: Wie oft bist du die Person mit den meisten/besten Ideen
+
+- **Strategy**: Wie gut kannst du die aktuelle Arbeit in einen größeren Kontext setzen (Market / Vision Context) und diese anderen verständlich erklären.
+
+- **Growth**: Wie gut bist du, in verschiedene Aufwände durch cleveres nutzen von Prozessen/Team management etc. zu minimieren.
+
+Niemand kann alles gleich gut.

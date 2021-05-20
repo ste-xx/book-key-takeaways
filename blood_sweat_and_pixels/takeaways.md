@@ -1,4 +1,4 @@
 ![cover](cover.jpg)
 
-### Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business
+### Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made
 - 

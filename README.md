@@ -25,7 +25,7 @@
 | Cover         | Title         | Link  |
 | ------------- |:-------------:| -----:|
 | ![blood_sweat_and_pixels](blood_sweat_and_pixels/cover.jpg) | Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made | [key takeaways](blood_sweat_and_pixels/takeaways.md) |
-
+| ![press_reset](press_reset/cover.jpg) | Press Reset: Ruin and Recovery in the Video Game Industry | [key takeaways](press_reset/takeaways.md) |
 
 ### IT-Management
 

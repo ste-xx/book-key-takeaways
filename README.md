@@ -36,6 +36,7 @@
 | ![the_managers_path](the_managers_path/cover.jpg) | The Manager Path | [key takeaways](the_managers_path/takeaways.md) |
 | ![accelerate](accelerate/cover.jpg) | Accelerate | [key takeaways](accelerate/takeaways.md) |
 | ![empowered](empowered/cover.jpg) | EMPOWERED: Ordinary People, Extraordinary Products | [key takeaways](empowered/takeaways.md) |
+| ![team_topologies](team_topologies/cover.jpg) | Team Topologies: Organizing Business and Technology Teams for Fast Flow | [key takeaways](team_topologies/takeaways.md) |
 
 ### Programming / Architecture
 

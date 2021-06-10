@@ -1,6 +1,4 @@
 ![cover](cover.jpg)
 
-### EMPOWERED: Ordinary People, Extraordinary Products	
+### Team Topologies: Organizing Business and Technology Teams for Fast Flow
 
-Leadership bedeuted, die fähigkeiten Anderer anzuerkennen 
-und der Leader soll eine Umgebung schaffen wo diese Fähigkeiten zum tragen kommen können.

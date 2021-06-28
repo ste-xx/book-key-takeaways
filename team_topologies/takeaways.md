@@ -33,7 +33,7 @@ Username prefixen, zb. [jedi] stefan
 #### Team Grundtypen
 - Stream Aligned Team (so etwas wie product/feature teams)
 - Enablement Teams (teams die Stream Aligned Teams unterstützen schnell produktiv zu werden)
-- Complicated Subsystem Team
+- Complicated Subsystem Team (teams die wirkliches spezialwissen benötigen, zb. video codec, face recognition, etc.) Fokus ist hier das wissen (cognitive load) und nicht das man geteilte Komponenten baut.
 - Platform Team
 
 #### Kritik

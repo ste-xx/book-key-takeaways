@@ -33,6 +33,8 @@ Username prefixen, zb. [jedi] stefan
 #### Team Grundtypen
 - Stream Aligned Team (so etwas wie product/feature teams)
 - Enablement Teams (teams die Stream Aligned Teams unterstützen schnell produktiv zu werden)
+- Complicated Subsystem Team
+- Platform Team
 
 #### Kritik
 Das Buch referenziert häufiger das Spotify Model, aber das Spotify model wurde nie wirklich bei Spotify ausgerollt.

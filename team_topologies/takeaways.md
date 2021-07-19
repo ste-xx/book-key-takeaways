@@ -36,6 +36,11 @@ Username prefixen, zb. [jedi] stefan
 - Complicated Subsystem Team (teams die wirkliches spezialwissen benötigen, zb. video codec, face recognition, etc.) Fokus ist hier das wissen (cognitive load) und nicht das man geteilte Komponenten baut.
 - Platform Team
 
+#### Team Interaktion Modi
+
+- Collaboration (Kann auch helfen um empathie zwischen Teams zu schaffen)
+- X-as-a-Service (Am besten wenn predicatable delivery wichtiger ist, als schnelle discorvery)
+- Facilitating
 #### Kritik
 Das Buch referenziert häufiger das Spotify Model, aber das Spotify model wurde nie wirklich bei Spotify ausgerollt.
 https://www.jeremiahlee.com/posts/failed-squad-goals/

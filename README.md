@@ -44,6 +44,7 @@
 | ------------- |:-------------:| -----:|
 | ![building_evolutionary_architectures](building_evolutionary_architectures/cover.jpg) | Building Evolutionary Architectures: Support Constant Change | [key takeaways](building_evolutionary_architectures/takeaways.md) |
 | ![implementing_domain_driven_design](implementing_domain_driven_design/cover.jpg) | Implementing Domain-Driven Design | [key takeaways](implementing_domain_driven_design/takeaways.md) |
+| ![grokking_simplicity](grokking_simplicity/cover.jpg) | Grokking Simplicity: Taming Complex Software With Functional Thinking | [key takeaways](grokking_simplicity/takeaways.md) |
 
 
 ### Psychology

@@ -51,4 +51,4 @@
 | Cover         | Title         | Link  |
 | ------------- |:-------------:| -----:|
 | ![never_split_the_difference](never_split_the_difference/cover.jpg) |  Never Split the Difference: Negotiating as if Your Life Depended on It | [key takeaways](never_split_the_difference/takeaways.md) |
-| ![think_again](think_again/cover.jpg) |  hink Again: The Power of Knowing What You Don't Know | [key takeaways](think_again/takeaways.md) |
+| ![think_again](think_again/cover.jpg) |  Think Again: The Power of Knowing What You Don't Know | [key takeaways](think_again/takeaways.md) |

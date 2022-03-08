@@ -57,8 +57,3 @@ jobs:
           git config --global user.email 'ste-xx@users.noreply.github.com'
           git commit -am "Add entry: ${{ github.event.inputs.title }} in ${{ github.event.inputs.topic }}"
           git push
-#      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
-#      - run: "transform title to lowercase_snakecase "
-#      - run: "add entry to header/table (transformed_title/cover.jpg | title | transformed_title/takeaways.md)"
-#      - run: "wget image_url -> transformed_title/cover.jpg"
-#      - run: "create transformed_title/takeaways.md"

@@ -32,10 +32,10 @@ jobs:
       - if: ${{ !contains(steps.readme.outputs.lowerCase, steps.topic.outputs.lowerCaseWithMdHeader) }}
         run: |-
           cat >> README.md <<EOF
-            ### ${{ github.event.inputs.topic }}
           
-            | Cover         | Title         | Link  |
-            | ------------- |:-------------:| -----:|
+          ### ${{ github.event.inputs.topic }}
+          | Cover         | Title         | Link  |
+          | ------------- |:-------------:| -----:|
           EOF
 
       - run: |

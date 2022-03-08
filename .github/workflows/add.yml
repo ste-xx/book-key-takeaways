@@ -22,10 +22,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: echo ::set-output name=README::$(cat README.md | tr '[:upper:]' '[:lower:]')
+      - run: echo ::set-output name=lowerCase::$(cat README.md | tr '[:upper:]' '[:lower:]')
         id: readme
-      - run: echo '${{ steps.readme.outputs.readme }}'
-      - if: ${{ !contains(steps.readme.outputs.readme, join('### ', github.event.inputs.header)) }}
+      - run: echo ::set-output name=lowerCase::$(echo "${{ github.event.inputs.header }}" | tr '[:upper:]' '[:lower:]')
+        id: header
+
+      - if: ${{ !contains(steps.readme.outputs.lowerCase, join('### ', steps.header.outputs.lowerCase)) }}
         run: echo 'add header, add table (| Cover         | Title         | Link  |)'
 #      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
 #      - run: "transform title to lowercase_snakecase "

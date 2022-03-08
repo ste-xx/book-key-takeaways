@@ -30,7 +30,19 @@ jobs:
       - run: echo "${{ steps.topic.outputs.lowerCaseWithMdHeader }}"
 
       - if: ${{ !contains(steps.readme.outputs.lowerCase, steps.topic.outputs.lowerCaseWithMdHeader) }}
-        run: echo 'add header, add table (| Cover         | Title         | Link  |)'
+        run: |-
+          cat >> README.md <<EOF
+            ### ${{ github.event.inputs.topic }}
+          
+            | Cover         | Title         | Link  |
+            | ------------- |:-------------:| -----:|
+          EOF
+
+      - run: |
+          git config --global user.name 'Stefan Breitenstein'
+          git config --global user.email 'ste-xx@users.noreply.github.com'
+          git commit -am "Add entry: ${{ github.event.inputs.title }} in ${{ github.event.inputs.topic }}"
+          git push
 #      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
 #      - run: "transform title to lowercase_snakecase "
 #      - run: "add entry to header/table (transformed_title/cover.jpg | title | transformed_title/takeaways.md)"

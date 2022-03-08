@@ -38,4 +38,4 @@ Mehr Punkte sind nicht besser als wenige wichtige.
 2) vernachläche popularität als verlässlichkeit
 3) der sender ist oft nicht quelle
 
-##### Öfters die frage stellen: How do you know? Woher weißst du das?
+##### Öfters die Frage stellen: How do you know? Woher weißst du das?

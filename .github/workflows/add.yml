@@ -1,0 +1,34 @@
+name: Add book to collection
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        type: string
+        description: "title for the new book"
+        required: true
+      image_url:
+        type: string
+        description: "image url"
+        required: true
+      header:
+        type: string
+        description: "given chapter"
+        required: true
+
+jobs:
+  describe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: echo ::set-output name=README::$(tr '[:upper:]' '[:lower:]' < cat README.md)
+        id: readme
+      - run: echo '${{ steps.readme.outputs.readme }}'
+      - if: ${{ ! contains(steps.readme.outputs.readme, "### "+github.event.inputs.header) }}
+        run: echo 'add header, add table (| Cover         | Title         | Link  |)'
+#      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
+#      - run: "transform title to lowercase_snakecase "
+#      - run: "add entry to header/table (transformed_title/cover.jpg | title | transformed_title/takeaways.md)"
+#      - run: "wget image_url -> transformed_title/cover.jpg"
+#      - run: "create transformed_title/takeaways.md"

@@ -1,4 +1,4 @@
-name: Add book to collection
+name: Add a book to a topic
 
 on:
   workflow_dispatch:
@@ -17,19 +17,19 @@ on:
         required: true
 
 jobs:
-  describe:
+  scaffold_entry:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
       - run: echo ::set-output name=lowerCase::$(cat README.md | tr '[:upper:]' '[:lower:]')
         id: readme
-      - run: echo ::set-output name=lowerCase::$(echo "${{ github.event.inputs.topic }}" | tr '[:upper:]' '[:lower:]')
+      - run: echo ::set-output name=lowerCaseWithMdHeader::$(echo "### ${{ github.event.inputs.topic }}" | tr '[:upper:]' '[:lower:]')
         id: topic
       - run: echo "${{ steps.readme.outputs.lowerCase }}"
-      - run: echo "${{ steps.topic.outputs.lowerCase }}"
+      - run: echo "${{ steps.topic.outputs.lowerCaseWithMdHeader }}"
 
-      - if: ${{ !contains(steps.readme.outputs.lowerCase, join('### ', steps.topic.outputs.lowerCase)) }}
+      - if: ${{ !contains(steps.readme.outputs.lowerCase, steps.topic.outputs.lowerCaseWithMdHeader) }}
         run: echo 'add header, add table (| Cover         | Title         | Link  |)'
 #      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
 #      - run: "transform title to lowercase_snakecase "

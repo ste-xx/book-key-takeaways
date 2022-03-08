@@ -25,7 +25,7 @@ jobs:
       - run: echo ::set-output name=README::$(tr '[:upper:]' '[:lower:]' < cat README.md)
         id: readme
       - run: echo '${{ steps.readme.outputs.readme }}'
-      - if: ${{ ! contains(steps.readme.outputs.readme, "### "+github.event.inputs.header) }}
+      - if: ${{ ! contains(steps.readme.outputs.readme, join('### ', github.event.inputs.header)) }}
         run: echo 'add header, add table (| Cover         | Title         | Link  |)'
 #      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
 #      - run: "transform title to lowercase_snakecase "

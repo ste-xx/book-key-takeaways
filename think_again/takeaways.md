@@ -24,5 +24,7 @@ Wenn stattdessen über das *wie* diskutiert wird, ist die Diskussion offener und
 ##### Diskussion
 
 Die meisten fangen die Diskussion mit dem *Strohmann* an.
+
 Der Strohmann ist die schwächste Version des anderen Standpunkts.
+
 Der eigene Standpunkt dagegen ist der *Stahlmann*, denn die stärkste Version des eigenen Standpunkts.

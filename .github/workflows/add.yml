@@ -26,6 +26,8 @@ jobs:
         id: readme
       - run: echo ::set-output name=lowerCase::$(echo "${{ github.event.inputs.header }}" | tr '[:upper:]' '[:lower:]')
         id: header
+      - run: echo "${{ steps.readme.outputs.lowerCase }}"
+      - run: echo "${{ steps.header.outputs.lowerCase }}"
 
       - if: ${{ !contains(steps.readme.outputs.lowerCase, join('### ', steps.header.outputs.lowerCase)) }}
         run: echo 'add header, add table (| Cover         | Title         | Link  |)'

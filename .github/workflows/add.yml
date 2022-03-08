@@ -26,8 +26,8 @@ jobs:
         id: readme
       - run: echo ::set-output name=lowerCaseWithMdHeader::$(echo "### ${{ github.event.inputs.topic }}" | tr '[:upper:]' '[:lower:]')
         id: topic
-      - run: echo "${{ steps.readme.outputs.lowerCase }}"
-      - run: echo "${{ steps.topic.outputs.lowerCaseWithMdHeader }}"
+      - run: echo ::set-output name=lowerCaseUnderscore::$(echo "${{ github.event.inputs.title }}" | tr '[:upper:]' '[:lower:]' | tr -s ' ' '_')
+        id: title
 
       - if: ${{ !contains(steps.readme.outputs.lowerCase, steps.topic.outputs.lowerCaseWithMdHeader) }}
         run: |-
@@ -38,6 +38,19 @@ jobs:
           | ------------- |:-------------:| -----:|
           EOF
 
+      run: |-
+        cat >> README.md <<EOF
+        
+        | ![${{steps.title.outputs.lowerCaseUnderscore }}](${{steps.title.outputs.lowerCaseUnderscore }}/cover.jpg) | ${{ github.event.inputs.title }} | [key takeaways](${{steps.title.outputs.lowerCaseUnderscore }}/takeaways.md) |
+        EOF
+
+      - run: wget -O ./${{steps.title.outputs.lowerCaseUnderscore }}/cover.jpg ${{ github.event.inputs.image_url }}"
+      - run: |-
+          cat > ./${{steps.title.outputs.lowerCaseUnderscore }}/takeaways.md <<EOF
+          ![cover](cover.jpg)
+        
+          ### ${{ github.event.inputs.title }}
+          EOF
       - run: |
           git config --global user.name 'Stefan Breitenstein'
           git config --global user.email 'ste-xx@users.noreply.github.com'

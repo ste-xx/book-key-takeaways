@@ -44,7 +44,7 @@ jobs:
           | ![${{steps.title.outputs.lowerCaseUnderscore }}](${{steps.title.outputs.lowerCaseUnderscore }}/cover.jpg) | ${{ github.event.inputs.title }} | [key takeaways](${{steps.title.outputs.lowerCaseUnderscore }}/takeaways.md) |
           EOF
 
-      - run: wget -O ./${{steps.title.outputs.lowerCaseUnderscore }}/cover.jpg ${{ github.event.inputs.image_url }}
+      - run: wget -O --create-dirs ./${{steps.title.outputs.lowerCaseUnderscore }}/cover.jpg ${{ github.event.inputs.image_url }}
       - run: |-
           cat > ./${{steps.title.outputs.lowerCaseUnderscore }}/takeaways.md <<EOF
           ![cover](cover.jpg)

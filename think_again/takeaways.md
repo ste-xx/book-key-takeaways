@@ -32,3 +32,8 @@ Der eigene Standpunkt dagegen ist der *Stahlmann*, denn die stärkste Version de
 
 
 Mehr Punkte sind nicht besser als wenige wichtige. 
+
+##### Faktenchecker
+1) Hinterfragen anstatt nur zu konsumieren
+2) vernachläche popularität als verlässlichkeit
+3) der sender ist oft nicht quelle

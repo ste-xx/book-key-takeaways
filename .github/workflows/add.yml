@@ -26,7 +26,7 @@ jobs:
         id: readme
       - run: echo ::set-output name=lowerCaseWithMdHeader::$(echo "### ${{ github.event.inputs.topic }}" | tr '[:upper:]' '[:lower:]')
         id: topic
-      - run: echo ::set-output name=lowerCaseUnderscore::$(echo "${{ github.event.inputs.title }}" | tr '[:upper:]' '[:lower:]' | tr -s ' ' '_')
+      - run: echo ::set-output name=lowerCaseUnderscore::$(echo "${{ github.event.inputs.title }}" | tr '[:upper:]' '[:lower:]' | tr -s ' ' '_' | tr -s ':' '_')
         id: title
 
       - if: ${{ !contains(steps.readme.outputs.lowerCase, steps.topic.outputs.lowerCaseWithMdHeader) }}

@@ -11,9 +11,9 @@ on:
         type: string
         description: "image url"
         required: true
-      header:
+      topic:
         type: string
-        description: "given chapter"
+        description: "given topic"
         required: true
 
 jobs:
@@ -24,12 +24,12 @@ jobs:
 
       - run: echo ::set-output name=lowerCase::$(cat README.md | tr '[:upper:]' '[:lower:]')
         id: readme
-      - run: echo ::set-output name=lowerCase::$(echo "${{ github.event.inputs.header }}" | tr '[:upper:]' '[:lower:]')
-        id: header
-      - run: echo "${{ steps.readme.outputs.lowerCase }}"
+      - run: echo ::set-output name=lowerCase::$(echo "${{ github.event.inputs.topic }}" | tr '[:upper:]' '[:lower:]')
+        id: topic
+      - run: echo "${{ steps.readme.outputs.topic }}"
       - run: echo "${{ steps.header.outputs.lowerCase }}"
 
-      - if: ${{ !contains(steps.readme.outputs.lowerCase, join('### ', steps.header.outputs.lowerCase)) }}
+      - if: ${{ !contains(steps.readme.outputs.lowerCase, join('### ', steps.topic.outputs.lowerCase)) }}
         run: echo 'add header, add table (| Cover         | Title         | Link  |)'
 #      - run: "if header not exists: add header, add table (| Cover         | Title         | Link  |)"
 #      - run: "transform title to lowercase_snakecase "

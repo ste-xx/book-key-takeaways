@@ -20,7 +20,7 @@ Babys, Katzen etc. triggern
 
 #### Kurz sein
 
-#### eine Story erzählen
+#### Eine Story erzählen
 
 ## Arbeiten am Computer
 Pause alle 90min.

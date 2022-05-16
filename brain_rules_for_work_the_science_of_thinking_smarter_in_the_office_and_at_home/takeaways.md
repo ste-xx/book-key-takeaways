@@ -46,6 +46,11 @@ Benötigt stressfreie Umgebung, benötigt eher mehr Zeit
 
 Eher kurze Zeit. Eher in stressvollen Umgebung. 
 
+## Konflikte
+
+20 min. Zeit nehmen um auf zu schreiben wo der Konflikt war, aber aus der neutralen 3rd Party Perspektive.
+Dies einige Tage durchziehen.
+
 ## 
 [Pennecker excersise](https://www.google.com/search?q=Pennebaker+exercise)
 

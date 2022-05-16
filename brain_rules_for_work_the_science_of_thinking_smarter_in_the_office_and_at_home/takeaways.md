@@ -22,8 +22,6 @@ Babys, Katzen etc. triggern
 
 #### eine Story erzählen
 
-
-
 ## Arbeiten am Computer
 Pause alle 90min.
 Entweder draußen rumgehen oder dort wo zumindest, Pflanzen, Wasserfälle, Bäche sind.
@@ -49,6 +47,7 @@ Eher kurze Zeit. Eher in stressvollen Umgebung.
 ## Konflikte
 
 20 min. Zeit nehmen um auf zu schreiben wo der Konflikt war, aber aus der neutralen 3rd Party Perspektive.
+
 Dies einige Tage durchziehen.
 
 ## 

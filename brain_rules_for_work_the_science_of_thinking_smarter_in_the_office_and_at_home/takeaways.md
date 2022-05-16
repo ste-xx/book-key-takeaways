@@ -50,7 +50,8 @@ Eher kurze Zeit. Eher in stressvollen Umgebung.
 
 Dies einige Tage durchziehen.
 
-## 
 [Pennecker excersise](https://www.google.com/search?q=Pennebaker+exercise)
+
+## 
 
 [prejudice habit-breaking intervention](https://www.google.com/search?q=prejudice+habit-breaking+intervention)
